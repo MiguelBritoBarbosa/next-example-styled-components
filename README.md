@@ -1,3 +1,15 @@
+# Next App exemplo 
+
+### Um app exemplo utilizando Next para futuras implementações utilizando essa mesma configuração
+
+Esse app foi construído em next com styled-components, eslint, prettier e babel.
+Para que futuros apps pudessem utilizar desta mesma configuração.
+Para extender esse app para outro projeto, basta utilizar o comando `npx create-next-app . -e https://github.com/MiguelBritoBarbosa/next-example-styled-components`
+
+
+
+### Documentação gerada automaticamente  ↧
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
